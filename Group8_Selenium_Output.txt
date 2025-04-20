@@ -1,0 +1,16 @@
+DevTools listening on ws://127.0.0.1:57791/devtools/browser/bd14ac6b-05e8-48b1-baee-6141fae41ee1
+Homepage Load response time: 4.24 seconds
+Search 'wireless headphones' response time: 2.55 seconds
+Sort by Price: Low to High response time: 1.40 seconds
+Lowest Priced Item: san7 Wired Headphone - ₹222
+Sort by Avg. Customer Review response time: 1.35 seconds
+Top-Rated Item: Bluetooth Headphones Over Ear, 80H Playtime Wireless Headphone with 3 EQ Modes, Built-in Mic, Deep Bass, HiFi Stereo Foldable Wireless Headset for iPhone PC Travel Workout Office (Pink) - ₹12,358
+Add to Cart response time: 6.20 seconds
+Item added to cart
+
+Summary of Response Times:
+Homepage Load: 4.24 seconds
+Search 'wireless headphones': 2.55 seconds
+Sort by Price: Low to High: 1.40 seconds
+Sort by Avg. Customer Review: 1.35 seconds
+Add to Cart: 6.20 seconds

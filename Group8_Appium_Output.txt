@@ -1,0 +1,22 @@
+2025-04-20 21:54:11,239 - INFO - Starting Connection to Appium Server
+2025-04-20 21:54:16,884 - INFO - App load time measurement:
+2025-04-20 21:54:23,129 - INFO - Time taken to load : 3.5449740505218506 seconds
+2025-04-20 21:54:23,130 - INFO -
+2025-04-20 21:54:23,130 - INFO - Searching for  wireless headphones
+2025-04-20 21:54:31,887 - INFO - Time taken to search for wireless headphones : 8.7686841106414795 seconds
+2025-04-20 21:54:31,887 - INFO -
+2025-04-20 21:54:31,903 - INFO - Sorting by price :
+2025-04-20 21:54:40,555 - INFO - Time taken to sort by Lowest price : 8.651969614028931 seconds
+2025-04-20 21:54:40,555 - INFO -
+2025-04-20 21:54:40,555 - INFO - Product Name: san7 Wired Headphone
+2025-04-20 21:54:40,555 - INFO - Product Price: 222
+2025-04-20 21:54:40,555 - INFO -
+2025-04-20 21:54:40,555 - INFO - Sorting by highest rated item:
+2025-04-20 21:54:45,539 - INFO - Time taken to sort by Ratings : 4.98000018119812 seconds
+2025-04-20 21:54:45,539 - INFO -
+2025-04-20 21:54:45,539 - INFO - Adding to cart
+2025-04-20 21:54:51,167 - INFO - Time taken to add to cart : 10.615542402267456 seconds
+2025-04-20 21:54:51,167 - INFO -
+2025-04-20 21:54:51,167 - INFO - Product Name: YUMONDEAR Bluetooth Headphones Over Ear, 80H Playtime Wireless Headphone with 3 EQ Modes, Built-in Mic, Deep Bass, HiFi Stereo Foldable Wireless Headset for iPhone PC Travel Workout Office (Pink)
+2025-04-20 21:54:51,167 - INFO - Product Price: 12,358
+2025-04-20 21:54:51,167 - INFO - Test completed
